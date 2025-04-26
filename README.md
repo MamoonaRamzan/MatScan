@@ -49,4 +49,13 @@ python material_defect_analyzer.py
 
 5. Switch to the "Defect Visualization" tab to see a heatmap highlighting areas that influenced the model's decision.
 
+---
+## Preview
+<img width="960" alt="Screenshot 2025-04-26 125844" src="https://github.com/user-attachments/assets/24be5fc1-e36a-4cde-b3c8-cff55a2e6824" />
+<img width="960" alt="Screenshot 2025-04-26 125931" src="https://github.com/user-attachments/assets/852302c2-96cd-4a77-8339-58258e684a04" />
+<img width="960" alt="Screenshot 2025-04-26 130014" src="https://github.com/user-attachments/assets/d83460b8-a6fa-415c-862e-75c832edffb9" />
+
+
+
+
 
