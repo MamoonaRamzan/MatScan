@@ -2,13 +2,9 @@
 
 An industrial analysis tool for detecting and classifying defects in material surfaces using machine learning.
 
----
-
 ## 📝 Overview
 
 MatScan: Material Surface Analyzer System is a desktop application that helps manufacturing and quality control professionals identify and classify defects in material surfaces. Using computer vision and deep learning, the system can detect six common types of industrial material defects with high accuracy.
-
----
 
 ## Dataset
 
